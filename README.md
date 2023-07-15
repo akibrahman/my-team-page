@@ -36,22 +36,24 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+Desktop View
+![screenshot](./pc.png)
+Mobile View
+![screenshot](./phn.jpg)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- For Demo [Click Here](https://akibrahman.github.io/my-team-page/)
+- I'm quite Experienced in Full Stack Web Development.
+- I have learnt from [Programming Hero](https://www.programming-hero.com/).
+- Your wisdom - [Akib Rahman](https://mdakibrahman.netlify.app/) :)
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
 
 ## Features
 
@@ -69,6 +71,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [mdakibrahman.netlify.app](https://mdakibrahman.netlify.app/)
+- GitHub [@akibrahman](https://github.com/akibrahman)
+- Facebook [@Akib Rahman](https://facebook.com/akibrahmann)
